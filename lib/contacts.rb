@@ -9,7 +9,7 @@ puts remove_strawberry(contacts = {
     email: "freddy@mercury.com",
     favorite_ice_cream_flavors: ["strawberry", "cookie dough", "mint chip"]
   }
-}
+})
   
 def remove_strawberry(contacts)
   # Assign Freddy Mercury's hash to a variable
