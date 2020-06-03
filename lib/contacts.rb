@@ -11,7 +11,7 @@ puts remove_strawberry(contacts = {
   }
 }
 
-end 
+
   
 def remove_strawberry(contacts)
   contacts.each do |person, contact_details_hash|
